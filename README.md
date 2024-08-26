@@ -1,7 +1,7 @@
 
-## J&J Automation
+# J&J Automation
 
-# Controls and Automation solutions
+## Controls and Automation solutions
 
 Contact Infomation
 
