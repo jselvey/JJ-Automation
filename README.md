@@ -1,3 +1,6 @@
+theme: jekyll-theme-minimal
+
+
 # J&J Automation
 
 Controls and Automation solutions
