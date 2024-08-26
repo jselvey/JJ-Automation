@@ -1,10 +1,14 @@
 
-# J&J Automation
+## J&J Automation
 
-Controls and Automation solutions
+#Controls and Automation solutions
 
+Contact Infomation
+
+Jeff Selvey
 **Email:** Jselvey@JJ-Automation.com  
 **Phone:** (419) 603-2128
 
-**Email:** Jegbaert@JJ-Automation.com  
+Jacob Egbert
+**Email:** Jegbert@JJ-Automation.com  
 **Phone:** (419) 307-3128
